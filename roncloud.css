@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    background-color: bisque;
+}
+header img{
+    height:100px ;
+    width: 150px;
+}
+header ol{
+    display: inline;
+    float: right;
+    margin: 40px;
+}
+header ol li{
+    display: inline;
+}
+header ol li a{
+    display: inline;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 20px;
+}
+main{
+    background-color: burlywood;
+    overflow: hidden;
+}
+main img{
+    height:250px ;
+    width: 300px;
+    float: left;
+}
+.gg{
+    background-color: rgb(138, 90, 0);
+    overflow: hidden;
+}
+.gg img{
+    height: 250px;
+    width: 300px;
+    float: right;
+}
+main span form{
+    padding: 10px;
+    text-align: center;
+}
+footer{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    padding-left: 20px;
+}
+footer .roncloud a{
+    text-decoration: none;
+    color: beige;
+    float: right;
+    padding-right: 15px;
+}
